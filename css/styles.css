@@ -1,0 +1,170 @@
+/**************** CLASS ELEMENT *************/
+.top-container {
+  background-color: #f0f0f0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+background-color:#ffffff;
+margin:100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+
+.milad{
+  height:150px;
+  width:150px;
+}
+.ani-1{
+
+  width:25%;
+  float:left;
+  margin-right: 35px;
+}
+.ani-pc{
+
+  width:25%;
+  float: right;
+  margin-left: 35px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.skill-row{
+  width:50%;
+  margin :100px auto;
+  text-align:left;
+  line-height: 2;
+
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.contact-footer{
+  width:40%;
+  margin:40px auto 60px;
+}
+a{
+  color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size:55%;
+    margin:10px 20px;
+    font-weight:bold;
+    text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+p{
+  font-size:1.2rem;
+  color:#40514E;
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size:200%;
+}
+
+h1 {
+    line-height: 1rem;
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 50px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding:10px;
+
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+h4{
+  color: #12947f;
+}
+hr{
+  border:dotted #EAF6F6 3px;
+  border-bottom: none;
+  width:4%;
+  margin:100px auto;
+}
+.Developing{
+
+  font-weight: normal;
+  font-size: 2.0rem;
+  color: #66BFBF;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.copy-right{
+  color:#11999E;
+  font-size: 0.75rem;
+  padding:20px 0;
+
+}
+.copy-right:hover{
+    color:#EAF6F6;
+
+}
+.BUTTON_OZF {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 43px;
+   font-weight: 300;
+   padding: 41px;
+   box-shadow: 1px 1px 20px 0px #000000;
+   -webkit-box-shadow: 1px 1px 20px 0px #000000;
+   -moz-box-shadow: 1px 1px 20px 0px #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_OZF:hover {
+   border: solid #0AD444 2px;
+   background: #1ED09E;
+   background-image: -webkit-linear-gradient(top, #1ED09E, #3DF66D);
+   background-image: -moz-linear-gradient(top, #1ED09E, #3DF66D);
+   background-image: -ms-linear-gradient(top, #1ED09E, #3DF66D);
+   background-image: -o-linear-gradient(top, #1ED09E, #3DF66D);
+   background-image: linear-gradient(to bottom, #1ED09E, #3DF66D);
+   -webkit-border-radius: 16px;
+   -moz-border-radius: 16px;
+   border-radius: 16px;
+   text-decoration: none;
+}
